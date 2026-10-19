@@ -1,7 +1,7 @@
 {
   "name": "dsh-workbench-memory",
-  "version": "0.1.0",
-  "description": "个人 DeepSeek Harness 工作台的「记忆库」独立包：记忆库页（原子卡片 + 3D 关系图）+ 每轮有界召回并自动注入上下文（注入块标记为历史数据、非指令）+ 「记忆库」侧边栏入口。",
+  "version": "0.2.0",
+  "description": "个人 DeepSeek Harness 工作台的「记忆库」独立包：记忆库页（原子卡片 + 3D 球棍关系图）+ 每轮有界召回并自动注入上下文（注入块标记为历史数据、非指令）。只注册记忆库这一页的插槽，可与其它三个单页包同时装。",
   "license": "MIT",
   "type": "module",
   "main": "lib/index.js",
